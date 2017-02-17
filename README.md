@@ -13,5 +13,5 @@ NOTE: You will need to clone both this Pi repo and the server repo at (https://g
 
 1. `git clone` the repo, `cd` inside and `npm install`.
 2. Configure gpio-admin.
-* Follow the instructions on this repo (https://github.com/nickfloyd/raspberry-beacons). Specifically the Troubleshooting section.
+  * Follow the instructions on this repo (https://github.com/nickfloyd/raspberry-beacons). Specifically the Troubleshooting section.
 3. Set up the hardware! Step-by-step tutorial coming later, but for now [this video](https://www.youtube.com/watch?v=AK-u71Lk5VI) was extremely useful.
