@@ -1,7 +1,7 @@
 # Pi-Server
 ## Pandora's Box
 
-NOTE: You will need to clone both this Pi repo and the server repo at (https://github.com/pandoras-box/Server) and the client repo at (https://github.com/pandoras-box/Client)
+NOTE: You will need to clone this Pi repo and the server repo at (https://github.com/pandoras-box/Server) and the client repo at (https://github.com/pandoras-box/Client)
 
 ### Summary
 Pandora's Box is a mobile app and Internet of Things project designed to streamline and gamify Interactions with parents and children on the subject of chores or tasks. It sets up a system where there is a tangible reward controlled by the mobile application.
